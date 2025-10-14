@@ -13,9 +13,9 @@ title: Home
 - [Roadmap](/roadmap/)
 
 ### Contributors
-- [selfdriven.foundation](https://selfdriven.foundation)
-- [selfdriven.health](https://selfdriven.health)
-- [beHub](https://behub.com.au)
+- [selfdriven.services](https://selfdriven.services) - communitisation management
+- [selfdriven.health](https://selfdriven.health) - research
+- [beHub](https://behub.com.au) - integrated platform that supports clinicians and healthcare workers
 
 ### Related
 - [selfdriven.space](https://selfdriven.space)
