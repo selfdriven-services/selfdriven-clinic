@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research - selfdriven Health
+title: Research - selfdriven Clinic
 permalink: /research/
 ---
 
@@ -15,4 +15,4 @@ permalink: /research/
     - "Sovereign state obligations"
 
 ## Organisation
-- [Clinic](/clinic-org/)
+- [Roadmap](/roadmap/)
