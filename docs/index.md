@@ -11,10 +11,10 @@ title: Home
 
 ### Resources
 - [Roadmap](/roadmap/)
-- [Organisation](/org/)
+- [Cooperative](/cooperative/)
 
 ### Contributors
-- [selfdriven.services](https://selfdriven.services) - communitisation management
+- [selfdriven.services](https://selfdriven.services) - cooperative management
 - [beHub](https://behub.com.au) - integrated platform that supports clinicians and healthcare workers
 
 # Research
@@ -29,6 +29,6 @@ title: Home
 - [selfdriven.network AI Interface](https://selfdriven.network)
 - [selfdriven.id](https://selfdriven.id) - Identity & Trust
 - [octology.io](https://octology.io) - templates
-- [selfdriven.fyi/research](https://selfdriven.fyi/research)
+- [research.selfdriven.foundation](https://research.selfdriven.foundation)
 
 

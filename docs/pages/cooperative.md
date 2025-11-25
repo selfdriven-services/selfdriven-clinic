@@ -1,6 +1,6 @@
 ---
 title: "selfdriven Clinic Org"
-permalink: /org/
+permalink: /cooperative/
 ---
 
 # selfdriven Clinic Org
