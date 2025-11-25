@@ -7,7 +7,7 @@ title: Home
 
 ### Why
 - Traditional Health Care facilities are under pressure.
-- With the arrival of *GAHI* as a society we have the opportunity to decentralise clinic functions.
+- With the arrival of *Generally Available Higher Intelligence* as a society we have the opportunity to decentralise clinic functions.
 
 ### Resources
 - [Roadmap](/roadmap/)
